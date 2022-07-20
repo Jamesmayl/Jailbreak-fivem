@@ -1,2 +1,4 @@
-# Jailbreak-fivem
-Jailbreak Script made for FiveM
+This is the only release for this script
+
+Very simple to install Just drag and drop.
+
